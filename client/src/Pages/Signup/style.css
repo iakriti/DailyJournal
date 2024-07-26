@@ -1,0 +1,22 @@
+.makeStyles-paper-1 {
+  margin-top: 15px !important;
+}
+
+.background-img {
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background: linear-gradient(45deg, #dbe6f6 30%, #c5796d 90%);
+}
+
+.card-border {
+  border-radius: 15px;
+}
+
+.signuplogo {
+  position: absolute;
+  border-radius: 50%;
+  width: 70px;
+  top: 2%;
+  float: left;
+}
